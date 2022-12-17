@@ -25,6 +25,3 @@ Luego de que el usuario más allá de llenar y enviar el formulario el administr
 
 ## **5. Interfaz de usuario UI (https://www.figma.com/file/tOtnzW9FY01UTPM20pzUKi/Untitled?node-id=0%3A1)** 
 ![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/UiAbogabot.png?raw=true)
-## **Mission-Front-End**
-
--[Practica de Intro a Frontend](https://github.com/RonyPadilla/Mission-Front-End/tree/main/Practica-Abogabot)
