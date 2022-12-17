@@ -15,10 +15,10 @@ Luego de que el usuario más allá de llenar y enviar el formulario el administr
 ![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Diagrama%20de%20flujo.PNG?raw=true)
 
 ## **2. Buyer Persona (https://www.hubspot.es/make-my-persona)** 
-![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/BuyerPersona.PNG?raw=true)
+![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Buyer%20Persona.PNG?raw=true)
 
 ## **3. Público Objetivo (https://miro.com/es/)** 
-![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/Publicoobjetivo.PNG?raw=true)
+![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Publico%20objetivo.PNG?raw=true)
 
 ## **4. Wireframe UX (https://miro.com/es/)** 
 ![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/Wireframes.PNG?raw=true)
