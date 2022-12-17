@@ -21,7 +21,7 @@ Luego de que el usuario más allá de llenar y enviar el formulario el administr
 ![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Publico%20objetivo.PNG?raw=true)
 
 ## **4. Wireframe UX (https://miro.com/es/)** 
-![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/Wireframes.PNG?raw=true)
+![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Wireframes.PNG?raw=true)
 
 ## **5. Interfaz de usuario UI (https://www.figma.com/file/tOtnzW9FY01UTPM20pzUKi/Untitled?node-id=0%3A1)** 
-![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/UiAbogabot.png?raw=true)
+![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Ui%20Abogabot.jpeg?raw=true)
