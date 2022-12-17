@@ -12,7 +12,7 @@ El usuario será capaz de crear una cuenta para poder visualizar el seguimiento 
 Luego de que el usuario más allá de llenar y enviar el formulario el administrador recibirá una notificación del nuevo proceso creará posteriormente el documento de Word para iniciar el mismo, el administrador también recibirá el pago y será capaz de verlo en un tablero para poder ver la cantidad de ingresos recibidos, repetidamente el administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso.
 
 ## **Diagrama de flujo (https://miro.com/es/)** 
-![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/Diagramadeflujo.PNG?raw=true)
+![](https://github.com/RonyPadilla/Practica-UI-UX/blob/main/Imagenes/Diagrama%20de%20flujo.PNG?raw=true)
 
 ## **2. Buyer Persona (https://www.hubspot.es/make-my-persona)** 
 ![](https://github.com/RonyPadilla/Mission-Front-End/blob/main/Practica-Abogabot/Imagenes/BuyerPersona.PNG?raw=true)
